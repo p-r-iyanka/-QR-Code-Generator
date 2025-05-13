@@ -24,7 +24,7 @@ This is a modern, mobile-friendly QR Code Generator built using HTML, CSS, and J
 
 
 🚀 Live Demo
-Coming soon... or host it with GitHub Pages!
+(https://p-r-iyanka.github.io/-QR-Code-Generator/)
 
 
 
@@ -45,7 +45,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone [https://github.com/your-username/qr-code-generator.git](https://github.com/p-r-iyanka/-QR-Code-Generator/commit/f3df0130f953fd7be9a784690f503ffe5f0cc7c1)
+git clone (https://github.com/p-r-iyanka/-QR-Code-Generator/commit/f3df0130f953fd7be9a784690f503ffe5f0cc7c1)
 cd qr-code-generator
 Open index.html in your browser.
 
